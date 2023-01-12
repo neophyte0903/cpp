@@ -1,0 +1,1 @@
+this is the collection of all the codes i did in c 
